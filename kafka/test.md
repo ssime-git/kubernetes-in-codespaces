@@ -95,7 +95,7 @@ docker build -t ssimedockerhub/producer:0.0 -f kafka/producer/Dockerfile .
 * Log to docker
 
 ```bash
-docker login -u ssimedockerhub -p yF0SsieP4sssime
+docker login -u ssimedockerhub -p XXXXXXXX
 ```
 
 * push de l'image :
